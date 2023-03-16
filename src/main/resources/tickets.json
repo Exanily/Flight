@@ -1,0 +1,72 @@
+[
+  {
+    "from": "Владивосток",
+    "to": "Тель-Авив",
+    "time_zone_from": "+10",
+    "time_zone_to": "+02",
+    "departure_date": "16.03.2023",
+    "departure_time": "13:50",
+    "arrival_date": "17.03.2023",
+    "arrival_time": "10:55"
+  },
+  {
+    "from": "Владивосток",
+    "to": "Тель-Авив",
+    "time_zone_from": "+10",
+    "time_zone_to": "+02",
+    "departure_date": "16.03.2023",
+    "departure_time": "12:05",
+    "arrival_date": "17.03.2023",
+    "arrival_time": "12:40"
+  },
+  {
+    "from": "Владивосток",
+    "to": "Тель-Авив",
+    "time_zone_from": "+10",
+    "time_zone_to": "+02",
+    "departure_date": "16.03.2023",
+    "departure_time": "9:20",
+    "arrival_date": "17.03.2023",
+    "arrival_time": "12:40"
+  },
+  {
+    "from": "Владивосток",
+    "to": "Тель-Авив",
+    "time_zone_from": "+10",
+    "time_zone_to": "+02",
+    "departure_date": "16.03.2023",
+    "departure_time": "10:20",
+    "arrival_date": "17.03.2023",
+    "arrival_time": "12:40"
+  },
+  {
+    "from": "Владивосток",
+    "to": "Тель-Авив",
+    "time_zone_from": "+10",
+    "time_zone_to": "+02",
+    "departure_date": "16.03.2023",
+    "departure_time": "8:00",
+    "arrival_date": "17.03.2023",
+    "arrival_time": "14:40"
+  },
+  {
+    "from": "Владивосток",
+    "to": "Тель-Авив",
+    "time_zone_from": "+10",
+    "time_zone_to": "+02",
+    "departure_date": "16.03.2023",
+    "departure_time": "5:45",
+    "arrival_date": "17.03.2023",
+    "arrival_time": "12:55"
+  },
+  {
+    "from": "Владивосток",
+    "to": "Тель-Авив",
+    "time_zone_from": "+10",
+    "time_zone_to": "+02",
+    "departure_date": "16.03.2023",
+    "departure_time": "10:00",
+    "arrival_date": "17.03.2023",
+    "arrival_time": "11:20"
+  }
+]
